@@ -12,6 +12,7 @@
 | 6（10/16） | 連續性與中間值定理：不連續的類型、二分法、起效與失效時間 | Calculus04 | [開啟](https://colab.research.google.com/github/wang3yuan/calculus-for-iih/blob/main/notebooks/04_continuity_ivt.ipynb) |
 | 7–8（10/23、10/30） | 求導法則與連鎖律：SymPy、心輸出量、酵素動力學、梯度下降 | Calculus05 | [開啟](https://colab.research.google.com/github/wang3yuan/calculus-for-iih/blob/main/notebooks/05_derivative_rules.ipynb) |
 | 9（11/6） | 三角、指數、對數的微分：血壓、晝夜節律、藥物衰減、sigmoid | Calculus06 | [開啟](https://colab.research.google.com/github/wang3yuan/calculus-for-iih/blob/main/notebooks/06_trig_exp_log.ipynb) |
+| 11（11/20） | 微分應用：藥物濃度高峰、區間測速與 MVT、紙盒最佳化、最划算劑量、學習率、羅必達 | Calculus07 | [開啟](https://colab.research.google.com/github/wang3yuan/calculus-for-iih/blob/main/notebooks/07_applications.ipynb) |
 
 新的進度會陸續加入。
 
